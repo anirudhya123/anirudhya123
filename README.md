@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @anirudhya123
-- 👀 I’m interested in Game Devloping AI Software and many more
-- 🌱 I’m currently learning Web Site Devloping
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Anirudhya Das 👋
 
-<!---
-anirudhya123/anirudhya123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software developer and B.Tech CSE (AI & ML) graduate from Kolkata, focused on backend development with C#, ASP.NET Core, and SQL Server.
+
+## What I'm working on
+- **SlotWise**: a meeting-room booking API (ASP.NET Core, EF Core, SQL Server, Identity auth, xUnit). A React frontend is in progress.
+
+## Tech
+C# · ASP.NET Core · Entity Framework Core · SQL Server · Python · TensorFlow/PyTorch · Unity · Firebase · Git
+
+## Contact
+- Email: anirudhya54@gmail.com
+- LinkedIn: linkedin.com/in/anirudhya-das03112003
